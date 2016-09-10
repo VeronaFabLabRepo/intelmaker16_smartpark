@@ -1,0 +1,26 @@
+div#map.map
+
+
+// Modal
+#parkInfoModal.modal.fade(tabindex='-1', role='dialog', aria-labelledby='myModalLabel')
+  .modal-dialog(role='document')
+    .modal-content
+      .modal-header#infoID
+        h4#myModalLabel.modal-title Park ID : {{parkID}}
+      .modal-body
+        | the park you selected is free
+      .modal-footer
+        button.btn.btn-default(type='button', data-dismiss='modal') Close
+        //button.btn.btn-primary(type='button') Park!
+
+// Modal non parks returned
+#noParkModal.modal.fade(tabindex='-1', role='dialog', aria-labelledby='myModalLabel')
+  .modal-dialog(role='document')
+    .modal-content
+      .modal-header
+        h4#myModalLabel.modal-title We're sorry...
+      .modal-body
+        | there isn't any park available near you :(
+      .modal-footer
+        button.btn.btn-default(type='button', data-dismiss='modal') Close
+        //button.btn.btn-primary(type='button') Park!

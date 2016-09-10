@@ -1,0 +1,14 @@
+{
+  "name": "Intel Smart Park",
+  "icons": [
+    {
+    "src": "96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }
+
+  ],
+  "start_url": "/app/",
+  "display": "standalone",
+  "orientation": "portrait"
+}

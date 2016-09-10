@@ -1,0 +1,99 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "LICENSE.md": {
+        "previousModTime": 1468863084216,
+        "modified": 1468863084216,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "README.md": {
+        "previousModTime": 1468863084216,
+        "modified": 1468863084216,
+        "seen": true,
+        "name": "README.md"
+      },
+      "ibeacon.xdk": {
+        "previousModTime": 1468864744516,
+        "modified": 1468864744516,
+        "seen": true,
+        "name": "ibeacon.xdk"
+      },
+      "ibeacon.xdke": {
+        "previousModTime": 1470684506923,
+        "modified": 1470684506923,
+        "seen": true,
+        "name": "ibeacon.xdke"
+      },
+      "ibeacon_1.2.0.xdk_bak": {
+        "previousModTime": 1468863084438,
+        "modified": 1468863084438,
+        "seen": true,
+        "name": "ibeacon_1.2.0.xdk_bak"
+      },
+      "ibeacon_1.2.0.xdke_bak": {
+        "previousModTime": 1468863084439,
+        "modified": 1468863084439,
+        "seen": true,
+        "name": "ibeacon_1.2.0.xdke_bak"
+      },
+      "icon.png": {
+        "previousModTime": 1468863084216,
+        "modified": 1468863084216,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1470684566356,
+        "modified": 1470684566356,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1468863084226,
+        "modified": 1468863084226,
+        "seen": true,
+        "name": "package.json"
+      },
+      "xdk-publish-meta-data.json": {
+        "previousModTime": 1468863085204,
+        "modified": 1468863085204,
+        "seen": true,
+        "name": "xdk-publish-meta-data.json"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1468863084651,
+        "modified": 1468863084651,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "index.html": {
+        "previousModTime": 1470572623465,
+        "modified": 1470572623465,
+        "seen": true,
+        "name": "index.html"
+      },
+      "js/jquery-3.1.0.js": {
+        "previousModTime": 1469353456128,
+        "modified": 1469353456128,
+        "seen": true,
+        "name": "js/jquery-3.1.0.js"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1470684573667
+      }
+    }
+  }
+}
